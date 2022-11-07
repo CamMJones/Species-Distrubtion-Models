@@ -10,7 +10,8 @@ research rationale, objectives, outcomes and impact
 data sources
 
 [WorldClim](https://www.worldclim.org/)
-[GBIF](https://www.gbif.org/species/8892957)
+
+[GBIF](https://www.gbif.org/species/8892957/)
 
 
 bioinformatics tools - with citations
